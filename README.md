@@ -1,5 +1,5 @@
 # Hello there, I'm Vadim 👋
-#### I'm a Front-end developer from Bishkek, Kyrgyzstan
+#### I'm a Front-end developer from Bishkek, Kyrgyzstan :kyrgyzstan:
 ## Contacts
 #### :airplane: Telegram: https://t.me/vadim_gerasko 
 #### :email: GMail: vadim.gerasko99@gmail.com | gerasko.vadim99@gmail.com
