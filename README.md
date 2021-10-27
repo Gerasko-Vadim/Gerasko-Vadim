@@ -1,7 +1,8 @@
 # Hello there, I'm Vadim 👋
 #### I'm a Front-end developer from Bishkek, Kyrgyzstan
 ## Contacts
-#### :airplane: Telegram: (https://t.me/vadim_gerasko)
+#### :airplane: Telegram: https://t.me/vadim_gerasko 
+#### :email: GMail: 
 <!--
 **Gerasko-Vadim/Gerasko-Vadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
