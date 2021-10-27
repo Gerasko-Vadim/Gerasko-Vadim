@@ -5,7 +5,8 @@
 #### :email: GMail: vadim.gerasko99@gmail.com | gerasko.vadim99@gmail.com
 ## Overview
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerasko-Vadim)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerasko-Vadim&show_icons=true&theme=radical)
+
 ### Top programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerasko-Vadim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## My Stacks
