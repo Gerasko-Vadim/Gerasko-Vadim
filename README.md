@@ -4,7 +4,7 @@
 #### :airplane: Telegram: https://t.me/vadim_gerasko 
 #### :email: GMail: vadim.gerasko99@gmail.com | gerasko.vadim99@gmail.com
 ## Overview
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gerasko-Vadim=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerasko-Vadim)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gerasko-Vadim/Gerasko-Vadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
