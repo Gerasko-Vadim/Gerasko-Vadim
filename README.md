@@ -7,7 +7,7 @@
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerasko-Vadim)](https://github.com/anuraghazra/github-readme-stats)
 ### Top programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==Gerasko-Vadim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerasko-Vadim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
