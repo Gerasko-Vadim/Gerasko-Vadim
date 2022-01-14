@@ -3,6 +3,7 @@
 ## Contacts
 #### :airplane: Telegram: https://t.me/vadim_gerasko 
 #### :email: GMail: vadim.gerasko99@gmail.com | gerasko.vadim99@gmail.com
+#### :email: Linkedin: www.linkedin.com/in/vadim-gerasko-2587701b1
 ## Overview
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerasko-Vadim&show_icons=true)
